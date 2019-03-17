@@ -1,0 +1,6 @@
+
+server.port: 8080
+
+amazon-rest-client:
+  ribbon:
+    listOfServers: http://completion.amazon.com
